@@ -1,7 +1,7 @@
 public class AssessmentType {
     
     private int assessmentTypeID; 
-    private String userID; 
+    private int userID; 
     private String description; 
 
     public int getAssessmentTypeID() {
